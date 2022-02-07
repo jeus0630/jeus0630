@@ -9,7 +9,7 @@ I hope I can contribute to make better world as a developer.
 <br>
 <br>
 
-### Tech Skills 💪 ####
+**Tech Skills 💪**
   
 **Main Stacks**  
 
