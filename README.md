@@ -11,7 +11,7 @@ I hope I can contribute to make better world as a developer.
 
 **Main**  
 
-<img src="https://img.shields.io/badge/Next.JS-000000?style=flat-square&logo=Next.JS&logoColor=white"/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.JS-000000?style=flat-square&logo=Next.JS&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
 
 **Sub**
 
