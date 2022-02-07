@@ -14,7 +14,7 @@ I hope I can contribute to make better world as a developer.
 **Main Stacks**  
 
 <img src="https://img.shields.io/badge/Next.JS-000000?style=flat-square&logo=Next.JS&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
-<br>
+<br><br>
 **Sub Stacks**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  
