@@ -7,6 +7,6 @@
 I am an enthusiastic Front-end developer obssessed with acquiring skills and knowledge every day.  
 I hope as a developer that I can contribute to make better world.
   
-**Tech Stacks ✍️**
+**Tech Stacks**
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
