@@ -15,7 +15,9 @@ I hope I can contribute to make better world as a developer. 🌎
 
 <img src="https://img.shields.io/badge/Next.JS-000000?style=flat-square&logo=Next.JS&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 <br><br>
-**Sub Stacks**
+
+**Sub Stacks**  
+
 <img src="https://img.shields.io/badge/Ubuntu-295420?style=flat-square&logo=Ubuntu&logoColor=white"/>  
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
