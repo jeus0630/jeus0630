@@ -28,7 +28,7 @@ I hope I can contribute to make better world as a developer. 🌎
 <br><br>
 **Tools**
 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/VMware-1679A7?style=flat-square&logo=VMware&logoColor=white"/>&nbsp;  
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GoogleAnalytics-E37400?style=flat-square&logo=GoogleAnalytics&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/VMware-1679A7?style=flat-square&logo=VMware&logoColor=white"/>&nbsp;  
 
 <br>
 <br>
