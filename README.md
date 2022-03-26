@@ -5,7 +5,7 @@
 <a href="mailto:jeus0630@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jeus0630@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 I am an enthusiastic **Front-end developer** acquiring skills and knowledge every day. 👨‍💻  
-I hope I can contribute to make better world as a developer. 🌎
+I hope I can contribute to making a better world as a developer. 🌎
 <br>
 <br>
 
